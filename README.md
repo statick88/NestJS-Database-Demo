@@ -10,6 +10,8 @@ Si aún no tienes Node.js instalado en tu sistema, descárgalo e instálalo desd
 
 ### 2. Clonar el repositorio
 
+Recuerda crear un fork de este repositorio antes de clonarlo.
+
 ```bash
 git clone https://github.com/tu_usuario/nestjs-database-demo.git
 ```
