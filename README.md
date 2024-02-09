@@ -39,3 +39,7 @@ Estructura del proyecto
 - hello/: Directorio que contiene el controlador de saludo.
 - database/: Directorio que contiene el servicio de base de datos.
 - package.json: Archivo de configuración de npm que especifica las dependencias del proyecto y los scripts de ejecución.
+
+---
+
+# Actividad.
